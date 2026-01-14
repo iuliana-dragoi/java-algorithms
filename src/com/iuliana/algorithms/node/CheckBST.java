@@ -1,4 +1,5 @@
-package com.iuliana.algorithms.arrays;
+
+package com.iuliana.algorithms.node;
 
 /***
  *  Check if a Binary Tree is a BST or not
