@@ -1,4 +1,4 @@
-package com.iuliana.algorithms.arrays;
+package com.iuliana.algorithms.node;
 
 public class SumTwoLinkedLists {
 
