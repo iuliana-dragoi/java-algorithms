@@ -17,7 +17,7 @@ public class SubarraySumEqualsK {
 
     }
 
-    // Complexity: O(n2)
+    // Complexity:  O(n^2)
     static int subArraySumV1(int[] nums, int k) {
         int count = 0;
 
