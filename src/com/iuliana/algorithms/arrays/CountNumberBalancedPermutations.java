@@ -33,7 +33,7 @@ public class CountNumberBalancedPermutations {
     }
 
     static void main() {
-        List<Integer> p1 = Arrays.asList(5, 3, 1, 2, 4);
+        List<Integer> p1 = Arrays.asList(5, 5, 3, 1, 2, 4);
         List<Integer> p2 = Arrays.asList(3, 1, 2, 5, 4);
 
         String result1 = countBalancedNumbers(p1);
